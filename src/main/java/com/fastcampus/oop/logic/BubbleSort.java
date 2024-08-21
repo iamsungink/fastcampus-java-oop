@@ -1,9 +1,9 @@
-package com.fastcampus.oop;
+package com.fastcampus.oop.logic;
 
 import java.util.ArrayList;
 import java.util.List;
 
-public class BubbleSort<T extends Comparable<T>> {
+public class BubbleSort<T extends Comparable<T>> implements Sort<T> {
 
     public List<T> sort(List<T> list) {
 

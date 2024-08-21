@@ -1,6 +1,6 @@
 package com.fastcampus.oop;
 
-import com.sun.jdi.InterfaceType;
+import com.fastcampus.oop.logic.BubbleSort;
 import org.junit.jupiter.api.DisplayName;
 import org.junit.jupiter.api.Test;
 

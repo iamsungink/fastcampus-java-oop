@@ -1,5 +1,6 @@
 package com.fastcampus.oop;
 
+import com.fastcampus.oop.logic.JavaSort;
 import org.junit.jupiter.api.DisplayName;
 import org.junit.jupiter.api.Test;
 
