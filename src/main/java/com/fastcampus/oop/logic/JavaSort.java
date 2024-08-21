@@ -1,7 +1,6 @@
-package com.fastcampus.oop;
+package com.fastcampus.oop.logic;
 
 import java.util.ArrayList;
-import java.util.Collection;
 import java.util.Collections;
 import java.util.List;
 

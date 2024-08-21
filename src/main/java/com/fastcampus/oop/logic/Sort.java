@@ -1,4 +1,4 @@
-package com.fastcampus.oop;
+package com.fastcampus.oop.logic;
 
 import java.util.List;
 
